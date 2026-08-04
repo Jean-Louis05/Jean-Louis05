@@ -7,11 +7,17 @@ Building practical cybersecurity and infrastructure labs while transitioning int
 🛠 Windows Server • Active Directory • Microsoft 365 • VMware • pfSense
 
 📂 Projects
+
 • Active Directory Lab
+
 • Windows Server Lab
+
 • Microsoft 365 Lab
+
 • pfSense Firewall
+
 • PC Build
 
 📜 Diploma of Cybersecurity & Advanced Networking
+
 📜 Google IT Support Professional Certificate
