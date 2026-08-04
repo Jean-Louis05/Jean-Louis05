@@ -1,23 +1,44 @@
 Hi, I'm Jean-Louis 👋
 
-Cybersecurity | IT Support | Windows Server | Active Directory
+🎯 **Aspiring Cybersecurity & IT Support Professional** based in Melbourne, Australia.
 
-Building practical cybersecurity and infrastructure labs while transitioning into IT.
+After nearly 20 years in hospitality management, I transitioned into IT by completing a **Diploma of Cybersecurity & Advanced Networking** and the **Google IT Support Professional Certificate**. I'm now building hands-on projects to develop practical skills in IT infrastructure and cybersecurity.
 
-🛠 Windows Server • Active Directory • Microsoft 365 • VMware • pfSense
+---
 
-📂 Projects
+## 🛠️ Tech Stack
 
-• Active Directory Lab
+- Windows 11 & Windows Server 2022
+- Active Directory
+- Microsoft 365
+- VMware
+- pfSense
+- DNS • DHCP • VPN • Group Policy
+- Networking & Troubleshooting
 
-• Windows Server Lab
+---
 
-• Microsoft 365 Lab
+## 📂 Featured Projects
 
-• pfSense Firewall
+🔹 **PC-Build**  
+Custom PC build, Windows installation, BIOS configuration, drivers, and troubleshooting.
 
-• PC Build
+🚧 More projects coming soon:
+- Active Directory Lab
+- Windows Server Lab
+- pfSense Firewall Lab
+- Microsoft 365 Lab
 
-📜 Diploma of Cybersecurity & Advanced Networking
+---
 
-📜 Google IT Support Professional Certificate
+## 📜 Certifications
+
+- ✅ Diploma of Cybersecurity & Advanced Networking
+- ✅ Google IT Support Professional Certificate
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/jean-louis-nseir-694a4619b
+- 📍 Melbourne, Australia
