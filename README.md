@@ -35,6 +35,7 @@ Custom PC build, Windows installation, BIOS configuration, drivers, and troubles
 
 - ✅ Diploma of Cybersecurity & Advanced Networking
 - ✅ Google IT Support Professional Certificate
+- ✅ Cybersecurity certified (CC) ISC2
 
 ---
 
