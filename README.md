@@ -1,6 +1,6 @@
 Hi, I'm Jean-Louis 👋
 
-🎯 **Aspiring Cybersecurity & IT Support Professional** based in Melbourne, Australia.
+🎯 **Junior Cybersecurity & IT Support Professional** based in Melbourne, Australia.
 
 After nearly 20 years in hospitality management, I transitioned into IT by completing a **Diploma of Cybersecurity & Advanced Networking** and the **Google IT Support Professional Certificate**. I'm now building hands-on projects to develop practical skills in IT infrastructure and cybersecurity.
 
