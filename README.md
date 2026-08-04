@@ -9,36 +9,61 @@ I am continuing to build my technical knowledge through hands-on labs, industry 
 🎯 Career Focus
 
 Cybersecurity
+
 IT Support and Service Desk
+
 Systems Administration
-Networking
+
 Security Operations
 
 🛠️ Technical Skills
 
 Systems and Administration
+
 Windows 10 and Windows 11
+
 Windows Server 2022
+
 Active Directory Domain Services
+
 Group Policy
+
 Microsoft 365
+
 User and permission management
+
 Windows deployment and troubleshooting
+
 Networking
+
 DNS
+
 DHCP
+
 TCP/IP
+
 VPN and remote access
+
 Network troubleshooting
+
 Routing and firewall rules
+
 pfSense
+
 Virtualisation and Security
+
 VMware
+
 Virtual machines and lab environments
+
 Basic SIEM and security monitoring
+
 Firewall configuration
+
 Access control
+
 Security policies
+
 Incident investigation fundamentals
 
 🎓 Education and Certifications
