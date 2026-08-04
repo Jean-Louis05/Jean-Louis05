@@ -13,7 +13,9 @@ IT Support and Service Desk
 Systems Administration
 Networking
 Security Operations
+
 🛠️ Technical Skills
+
 Systems and Administration
 Windows 10 and Windows 11
 Windows Server 2022
@@ -41,11 +43,12 @@ Incident investigation fundamentals
 
 🎓 Education and Certifications
 
-Diploma of Cybersecurity and Advanced Networking
-Monarch Institute — Completed July 2026
+Diploma of Cybersecurity and Advanced Networking Monarch Institute — Completed July 2026
+
 Google IT Support Professional Certificate
-Bachelor of Cyber Security
-Commencing soon
+
+Bachelor of Cyber Security Commencing soon
+
 Currently preparing for additional industry certifications
 
 💻 Hands-On Experience
