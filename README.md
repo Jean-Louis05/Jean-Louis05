@@ -48,5 +48,5 @@ Custom PC build, Windows installation, BIOS configuration, drivers, and troubles
 
 ## 📫 Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/jean-louis-nseir-694a4619b
+- 💼 LinkedIn: [Jean-Louis Nseir](https://www.linkedin.com/in/jean-louis-nseir-694a4619b/)
 - 📍 Melbourne, Australia
