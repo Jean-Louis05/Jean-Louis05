@@ -7,6 +7,7 @@ After nearly 20 years in hospitality management, I made the decision to transiti
 I am continuing to build my technical knowledge through hands-on labs, industry certifications, and further study in cybersecurity.
 
 🎯 Career Focus
+
 Cybersecurity
 IT Support and Service Desk
 Systems Administration
@@ -37,13 +38,16 @@ Firewall configuration
 Access control
 Security policies
 Incident investigation fundamentals
+
 🎓 Education and Certifications
+
 Diploma of Cybersecurity and Advanced Networking
 Monarch Institute — Completed July 2026
 Google IT Support Professional Certificate
 Bachelor of Cyber Security
 Commencing soon
 Currently preparing for additional industry certifications
+
 💻 Hands-On Experience
 
 Through practical labs and assessment projects, I have configured and troubleshot:
@@ -81,6 +85,7 @@ VPN and remote-access lab
 Cybersecurity monitoring exercises
 IT support troubleshooting guides
 Network diagrams and documentation
+
 🤝 Transferable Skills
 
 My background in hospitality management helped me develop strong professional skills, including:
@@ -105,7 +110,9 @@ Security monitoring
 Networking and system administration
 PowerShell
 Linux fundamentals
+
 📫 Connect With Me
+
 Location: Melbourne, Australia
 GitHub: Jean-Louis05
 LinkedIn: www.linkedin.com/in/jean-louis-nseir-694a4619b
