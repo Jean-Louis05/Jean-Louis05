@@ -8,13 +8,20 @@ After nearly 20 years in hospitality management, I transitioned into IT by compl
 
 ## 🛠️ Tech Stack
 
-- Windows 11 & Windows Server 2022
-- Active Directory
-- Microsoft 365
-- VMware
-- pfSense
-- DNS • DHCP • VPN • Group Policy
-- Networking & Troubleshooting
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
